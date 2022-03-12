@@ -1,6 +1,6 @@
 -- this feature2 is also cool
 hi
 
-
+this is a symbolic fix.
 *** working on new feature 1 blah blah blah ***
 *** gitflow is cool ***
