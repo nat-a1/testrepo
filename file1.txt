@@ -1,4 +1,2 @@
+-- this feature2 is also cool
 hi
-
-
--- this new feature 2 is also cool
